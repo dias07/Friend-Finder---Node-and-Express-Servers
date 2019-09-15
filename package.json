@@ -1,24 +1,25 @@
 {
-    "name": "friend-finder",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dias07/Friend-Finder---Node-and-Express-Servers.git"
-    },
-    "author": "Diyas Asset",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/dias07/Friend-Finder---Node-and-Express-Servers/issues"
-    },
-    "homepage": "https://github.com/dias07/Friend-Finder---Node-and-Express-Servers#readme",
-    "dependencies": {
-      "body-parser": "^1.15.2",
-      "express": "^4.14.0",
-      "path": "^0.12.7"
-    }
-  }
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dias07/Friend-Finder---Node-and-Express-Servers.git"
+  },
+  "author": "Diyas Asset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dias07/Friend-Finder---Node-and-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/dias07/Friend-Finder---Node-and-Express-Servers#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
